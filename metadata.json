@@ -1,0 +1,6 @@
+{
+  "name": "Resume & Skill Coach AI",
+  "description": "AI-powered resume analyzer, skill gap assessor, career roadmap planner, and resume improvement coach for college students and freshers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
